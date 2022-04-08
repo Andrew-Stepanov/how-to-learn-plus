@@ -1,0 +1,7 @@
+.logo {
+    position: absolute;
+    z-index: 1;
+    background-image: url(../../images/logo.svg);
+    width: 183px;
+    height: 32px;
+}
