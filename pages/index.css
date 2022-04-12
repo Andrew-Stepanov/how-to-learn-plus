@@ -81,11 +81,8 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-weight: normal;
   color: #000;
-}
-
-.page_text_semi-bold {
-  font-family: "Inter-SemiBold", "Helvetica Neue", Arial, sans-serif;
 }
 
 .description {
