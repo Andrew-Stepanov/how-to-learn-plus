@@ -4,6 +4,7 @@
   height: 316px;
   z-index: 1;
   overflow: visible;
+  border-style: none;
 }
 
 .video__iframe:nth-of-type(1) {

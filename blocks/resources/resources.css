@@ -8,7 +8,9 @@
 .resources__logo-link {
   text-decoration: none;
 }
-
+.resources__logo-link:hover {
+  opacity: 70%;
+}
 .resources__logo {
   width: 270px;
   height: 38px;
