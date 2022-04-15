@@ -1,10 +1,7 @@
-div,h1,h2,h3,h4,p,span {
-  margin: 0;
-  padding: 0;
-}
-
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
+  margin: 0;
+  padding: 0;
 }
