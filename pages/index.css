@@ -29,7 +29,6 @@
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/two-columns/__paragraph/_indention/two-columns__paragraph_indention.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
 
@@ -83,7 +82,8 @@
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(../blocks/footer/__column/_decoration/footer__column-link_decoration.css);
-@import url(../blocks/footer/__social-links/footer__social-icon.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__column-list/footer__column-list.css);
 
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
